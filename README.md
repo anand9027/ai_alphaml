@@ -7,7 +7,6 @@ About ME !!
 AI Explorer 
 
 Technical Program Leader in AWS, ServiceNow and Salesforce
-
 Ex-BT , Ex-EY
 
 🔍 Open to learning advice, seeking knowledge, chasing algorithms, embracing the data-driven adventure !!
