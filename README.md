@@ -34,6 +34,6 @@ About ME !!
 
     📚 Never stop Learning !!
 
-Currently diving into [Book/Online Course], open to recommendations! 📖✨
+Currently diving into 123ofAI ML course, open to recommendations on books and courses 📖✨
 
 🚀 Together, let's code the future! 🌟✨
